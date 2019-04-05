@@ -1,0 +1,24 @@
+body{
+	color:saddlebrown;
+	background-color: kakhi;
+	font-family: tahoma;
+}
+ul {
+	list-style-type: square;
+	font-family: courier;
+}
+ol{
+	font-family: courier;
+}
+img {
+	float:right;
+	border:4px solid saddlebrown;
+	width:18%;
+}
+hr{
+	height:2px;
+	background-color:saddlebrown;
+	clear:both;
+	margin-top:40px;
+	border:none;
+}
